@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import de.jensd.fx.glyphs.materialicons.MaterialIconView?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="557.0" prefWidth="860.0" stylesheets="@login.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
+   <children>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="430.0" style="-fx-background-color: #2196f3;" HBox.hgrow="ALWAYS">
+         <children>
+            <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@images/loginlogo.png" />
+               </image>
+            </ImageView>
+            <Label text="Welcome To My App" textFill="#0d4ceb">
+               <font>
+                  <Font name="Tahoma" size="34.0" />
+               </font>
+            </Label>
+         </children>
+         <padding>
+            <Insets top="-30.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="CENTER_LEFT" prefHeight="557.0" prefWidth="486.0" spacing="40.0" style="-fx-background-color: #FFF;" HBox.hgrow="ALWAYS">
+         <children>
+            <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@images/Preloader.gif" />
+                     </image>
+                  </ImageView>
+                  <Label text="Sign In" textFill="#2196f3">
+                     <font>
+                        <Font name="Comic Sans MS" size="47.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" prefHeight="71.0" prefWidth="418.0" spacing="10.0">
+               <children>
+                  <FontAwesomeIconView fill="#2196f3" glyphName="USER" size="36" />
+                  <JFXTextField focusColor="#2196f3" labelFloat="true" prefHeight="45.0" prefWidth="305.0" promptText="Username">
+                     <font>
+                        <Font name="Tahoma" size="25.0" />
+                     </font>
+                  </JFXTextField>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" prefHeight="61.0" prefWidth="418.0" spacing="5.0">
+               <children>
+                  <MaterialIconView fill="#2196f3" glyphName="LOCK" size="36" />
+                  <JFXPasswordField focusColor="#2196f3" labelFloat="true" prefHeight="25.0" prefWidth="308.0" promptText="Password">
+                     <font>
+                        <Font name="Tahoma" size="25.0" />
+                     </font>
+                  </JFXPasswordField>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" spacing="10.0">
+               <children>
+                  <JFXButton prefHeight="55.0" prefWidth="180.0" styleClass="btn-login" text="Login" />
+                  <JFXButton prefHeight="55.0" prefWidth="180.0" styleClass="btn-login" text="Exit" />
+               </children>
+            </HBox>
+         </children>
+         <padding>
+            <Insets left="40.0" />
+         </padding>
+      </VBox>
+   </children>
+</HBox>

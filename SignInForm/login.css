@@ -1,0 +1,21 @@
+.btn-login {
+    -fx-background-color: #2196f3;
+    -fx-font-family: Tahoma;
+    -fx-font-size: 22px;
+    -fx-text-fill: #FFF;
+    -fx-background-radius: 20px
+}
+
+.btn-login:hover {
+    -fx-cursor: hand;
+    -fx-border-color: #2196f3;
+    -fx-border-width: 3px;
+    -fx-border-radius: 20px;
+    -fx-background-color: #FFF;
+    -fx-text-fill: #2196f3;
+    -fx-font-weight: bold
+}
+
+.btn-login:pressed {
+    -fx-rotate: 12
+}
