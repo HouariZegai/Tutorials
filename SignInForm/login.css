@@ -19,3 +19,13 @@
 .btn-login:pressed {
     -fx-rotate: 12
 }
+
+.jfx-snackbar-content {
+    -fx-background-color: #F00;
+    -fx-pref-width: 430
+}
+.jfx-snackbar-toast {
+    -fx-text-fill: #FFF;
+    -fx-font-size: 18px;
+    -fx-font-family: Tahoma
+}
