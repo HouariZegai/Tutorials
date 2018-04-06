@@ -6,3 +6,11 @@ Follow me:<br />
 	<a href="https://www.facebook.com/1Coding" target="_blank">Facebook page</a><br />
 	<a href="https://www.twitter.com/HouariZegai" target="_blank">Twitter personal account</a><br />
 	<a href="https://www.youtube.com/HouariZegai">Youtube channel</a>
+	
+## Preview:
+
+#### PieChart example:
+<img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/pieChart.PNG" />
+
+#### BarChart example:
+<img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/barChart.PNG" />
