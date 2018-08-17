@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXCheckBox?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox alignment="TOP_CENTER" fillWidth="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" spacing="10.0" stylesheets="@login.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.houarizegai.login.LoginController">
+   <children>
+      <ImageView fitHeight="60.0" fitWidth="60.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@bootstrapLogo.png" />
+         </image>
+      </ImageView>
+      <Label styleClass="title" text="Login Form" />
+      <Label prefHeight="43.0" prefWidth="233.0" text="You can login to your account by type your username and password" textAlignment="CENTER" wrapText="true" />
+      <VBox spacing="15.0">
+         <children>
+            <TextField fx:id="usernameField" maxHeight="-Infinity" prefWidth="45.0" promptText="Username" styleClass="field" />
+            <PasswordField fx:id="passwordField" maxHeight="-Infinity" prefWidth="45.0" promptText="Password" styleClass="field" />
+            <JFXCheckBox checkedColor="#0066ff" styleClass="check" text="Remember me">
+               <font>
+                  <Font size="16.0" />
+               </font></JFXCheckBox>
+            <JFXButton onAction="#onLogin" prefHeight="45.0" prefWidth="371.0" styleClass="btn" text="Login" />
+         </children>
+         <VBox.margin>
+            <Insets bottom="30.0" top="20.0" />
+         </VBox.margin>
+      </VBox>
+      <Label styleClass="footer-text" text="2018-2019" />
+   </children>
+   <padding>
+      <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+   </padding>
+</VBox>

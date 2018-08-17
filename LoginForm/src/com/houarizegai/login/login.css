@@ -1,0 +1,33 @@
+/*
+    btn: 0066ff, 0066cc
+*/
+
+.title {
+    -fx-font-size: 22px
+}
+
+.footer-text {
+    -fx-font-size: 16px;
+    -fx-text-fill: #666
+}
+
+.field {
+    -fx-font-size: 19px;
+    -fx-background-radius: 5
+}
+
+.check:hover {
+    -fx-cursor: hand
+}
+
+.btn {
+    -fx-background-color: #0066ff;
+    -fx-text-fill: #FFF;
+    -fx-background-radius: 5;
+    -fx-font-size: 20px
+}
+
+.btn:hover {
+    -fx-background-color: #0066cc;
+    -fx-cursor: hand
+}
