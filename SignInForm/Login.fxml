@@ -13,7 +13,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="588.0" prefWidth="860.0" stylesheets="@login.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="588.0" prefWidth="860.0" stylesheets="@login.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginController">
    <children>
       <VBox alignment="CENTER" prefHeight="200.0" prefWidth="430.0" style="-fx-background-color: #2196f3;" HBox.hgrow="ALWAYS">
          <children>
@@ -22,7 +22,7 @@
                   <Image url="@images/loginlogo.png" />
                </image>
             </ImageView>
-            <Label text="Welcome To My App" textFill="#0d4ceb">
+            <Label text="Welcome To My App" textFill="WHITE">
                <font>
                   <Font name="Tahoma" size="34.0" />
                </font>
