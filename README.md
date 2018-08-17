@@ -17,3 +17,9 @@ Follow me:<br />
 
 #### About form:
 <img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/about.PNG" />
+
+#### Sign in form:
+<img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/SignIn.PNG" />
+
+#### Login form:
+<img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/LoginForm.PNG" />
