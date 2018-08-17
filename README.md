@@ -14,3 +14,6 @@ Follow me:<br />
 
 #### BarChart example:
 <img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/barChart.PNG" />
+
+#### About form:
+<img src="https://github.com/HouariZegai/JavaFxTutorial/blob/master/imagesPreview/about.PNG" />
