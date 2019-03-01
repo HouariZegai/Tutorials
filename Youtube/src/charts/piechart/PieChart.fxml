@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.PieChart?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="521.0" prefWidth="687.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="charts.piechart.PieChartController">
+   <children>
+      <TextField fx:id="name" layoutX="32.0" layoutY="27.0" prefHeight="40.0" prefWidth="186.0" promptText="Name" />
+      <TextField fx:id="value" layoutX="244.0" layoutY="27.0" prefHeight="40.0" prefWidth="226.0" promptText="Value" />
+      <Button layoutX="486.0" layoutY="27.0" mnemonicParsing="false" onAction="#btnAdd" prefHeight="40.0" prefWidth="97.0" text="Add" />
+      <PieChart fx:id="pieChart" layoutX="83.0" layoutY="98.0" title="Programming Language" />
+   </children>
+</AnchorPane>
