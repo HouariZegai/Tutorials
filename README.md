@@ -1,15 +1,19 @@
-# JavaFx Tutorial Course
-Step by step to build JavaFx Apps. Codes & Files for YouTube & university tutorial.
+# JavaFx Tutorial Course 🎉
+Step by step to build JavaFx apps. codes & files for **youtube** :movie_camera: & **university** 👨‍🎓 tutorial :green_heart:.
 
 For more information about courses check the README of each one:
-<ul>
-	<li><a href="https://github.com/HouariZegai/JavaFxTutorial/tree/master/Youtube" target="_blank">Youtube</a></li>
-	<li><a href="https://github.com/HouariZegai/JavaFxTutorial/blob/master/University" target="_blank">University</a></li>
-</ul>
 
-## Follow me
-<ul>
-	<li><a href="https://www.facebook.com/GeekHouari" target="_blank">Facebook</a></li>
-	<li><a href="https://www.twitter.com/HouariZegai" target="_blank">Twitter</a></li>
-	<li><a href="https://www.youtube.com/HouariZegai">Youtube</a></li>
-</ul>	
+:point_right: [Youtube](Youtube)  
+:point_right: [University](University)
+
+:point_right: [Youtube](Youtube)
+
+:point_right: [University](University)
+
+### Follow me
+[Facebook](https://www.facebook.com/ZegaiBlog) |
+[Youtube](https://www.youtube.com/HouariZegai) |
+[Twitter](https://www.twitter.com/HouariZegai) |
+[Instagram](https://www.instagram.com/HouariZegai)
+
+.سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
