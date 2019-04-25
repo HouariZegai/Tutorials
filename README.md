@@ -6,10 +6,6 @@ For more information about courses check the README of each one:
 :point_right: [Youtube](Youtube)  
 :point_right: [University](University)
 
-:point_right: [Youtube](Youtube)
-
-:point_right: [University](University)
-
 ### Follow me
 [Facebook](https://www.facebook.com/ZegaiBlog) |
 [Youtube](https://www.youtube.com/HouariZegai) |
