@@ -15,4 +15,10 @@ Students will gain hands-on experience coding JavaFX GUI apps with best practice
 * FontAwesomeFX
 * ControlsFX
 
-## 
+## I Recommand:
+#### JavaFX
+* [JavaFX Course of Mohamed Al-shawwa (Videos)](https://www.youtube.com/playlist?list=PLfJcnsgJ9GzLoom6zIikSVlL0CeKeHanI)
+* [Harmash (Website)](https://harmash.com/javafx)
+
+#### Java Basic & OOP
+* [Abdullah Eid](http://abdullaheid.net)
