@@ -21,4 +21,8 @@ Students will gain hands-on experience coding JavaFX GUI apps with best practice
 * [Harmash (Website)](https://harmash.com/javafx)
 
 #### Java Basic & OOP
-* [Abdullah Eid](http://abdullaheid.net)
+* [Abdullah Eid](http://abdullaheid.net) (You must learn these 4 courses bellow before you start learn JavaFX)
+  1. [Java 101](https://www.youtube.com/playlist?list=PL28DDB2DCF87BEE43)
+  2. [Java 102](https://www.youtube.com/playlist?list=PL138BE19EA2405C94)
+  3. [Java 103](https://www.youtube.com/playlist?list=PLA94A6FB67AB4CD0D)
+  4. [Java 104](https://www.youtube.com/playlist?list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)
