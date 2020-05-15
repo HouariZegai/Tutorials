@@ -1,15 +1,23 @@
-# JavaFx Tutorial Course 🎉
-Step by step to build JavaFx apps. codes & files for **youtube** :movie_camera: & **university** 👨‍🎓 tutorial :green_heart:.
+# Source Code of my Tutorials 🎉
+Step by step to learn code and build Apps. codes & resources of **youtube** :movie_camera: & **university** 👨‍🎓 tutorials :green_heart:.
+  
+Checkout my tutorials here :point_right: [Houari ZEGAI Youtube Channel](https://www.youtube.com/HouariZegai)
 
-For more information about courses check the README of each one:
+**Note:** For more information about courses check the README of each one.
 
-:point_right: [Youtube](JavaFX_Practical_Course)  
-:point_right: [University](University)
+### How to use the codes? 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-### Follow me
-[Facebook](https://www.facebook.com/ZegaiBlog) |
-[Youtube](https://www.youtube.com/HouariZegai) |
-[Twitter](https://www.twitter.com/HouariZegai) |
-[Instagram](https://www.instagram.com/HouariZegai)
+       git clone https://github.com/HouariZegai/Tutorials.git
+       
+### Contributing
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
+
+### Contact me 💡
+Email: houarizegai14@gmail.com  
+LinkedIn: [HouariZegai](https://linkedin.com/in/houarizegai)  
+Twitter: [@HouariZegai](https://twitter.com/houarizegai)
 
 .سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ

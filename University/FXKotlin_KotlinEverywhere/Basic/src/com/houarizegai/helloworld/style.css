@@ -1,0 +1,14 @@
+.btn {
+    -fx-font-size: 20px;
+    -fx-background-radius: 10;
+    -fx-background-color: #2196f3;
+    -fx-text-fill: #FFF;
+}
+
+.btn:hover {
+    -fx-background-color: cyan;
+}
+
+.btn:pressed {
+    -fx-rotate: 10;
+}

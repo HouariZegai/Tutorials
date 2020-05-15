@@ -1,9 +1,12 @@
-![Course Cover](University/JavaFX_Workshops/course_cover.jpg)
+![Course Cover](course_cover.jpg)
 # JavaFX GUI Development Course [2019/2020]
 ## Details
-We will learn in this JavaFX training course how to build contemporary user interfaces using Java 8, material design libraries, ...and more.
-
+We will learn in this JavaFX training course how to build contemporary user interfaces using Java 8, material design libraries, ...and more.  
 Students will gain hands-on experience coding JavaFX GUI apps with best practices use.
+  
+**Event**: Weekly Workshop    
+**Place:** Ibn Khaldoun University.  
+**Date:** 2019.
 
 ## Programs & Tools
 * JDK8 (Java 8)
