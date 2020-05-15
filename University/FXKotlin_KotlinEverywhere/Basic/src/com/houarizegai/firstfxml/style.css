@@ -1,0 +1,9 @@
+.btn {
+    -fx-background-color: #2196f3;
+    -fx-text-fill: #FFF;
+}
+
+.btn:pressed {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+}

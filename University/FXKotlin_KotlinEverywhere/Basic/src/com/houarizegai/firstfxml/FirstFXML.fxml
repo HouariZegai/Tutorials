@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            prefHeight="400.0" prefWidth="400.0" spacing="10" alignment="CENTER"
+            stylesheets="@style.css"
+            fx:controller="com.houarizegai.firstfxml.FirstFXMLController">
+    <children>
+        <Button onAction="#onSayHello" styleClass="btn" prefWidth="150.0" prefHeight="50.0" text="Say Hello!" />
+        <Label fx:id="lbl" prefWidth="150.0" prefHeight="50.0" />
+    </children>
+</VBox>
