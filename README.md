@@ -3,7 +3,7 @@ Step by step to build JavaFx apps. codes & files for **youtube** :movie_camera: 
 
 For more information about courses check the README of each one:
 
-:point_right: [Youtube](Youtube)  
+:point_right: [Youtube](JavaFX_Practical_Course)  
 :point_right: [University](University)
 
 ### Follow me
